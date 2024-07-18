@@ -15,6 +15,7 @@ Key performance Indicators (KPI's) are
 4. Average Interest Rate
 5. Average Debt-to-Income Ratio (DTI)
 6. Good Loan vs Bad Loan KPI’s
+   
 Good Loan category includes loans with a loan status of 'Fully Paid' and 'Current' whereas Bad Loan category specifically includes loans with a loan status of 'Charged Off.' This is represented by Doughnut chart
 Loan Status Grid View provides comprehensive overview of lending operations and monitor the performance of loans.
 
