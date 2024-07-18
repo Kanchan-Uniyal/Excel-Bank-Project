@@ -7,7 +7,8 @@ There are three Dashboards...
 ![Excel Project-Bank (1)](https://github.com/user-attachments/assets/c28e64be-3550-4cdf-ba7a-4233379d61a8)
 
 
-This Dashboard aims to provide insights to loan related metrics and their changes over time. Here, MTD stands for Month-to-Date and MoM stands for Month-over-Month Key performance Indicators (KPI's) are 
+This Dashboard aims to provide insights to loan related metrics and their changes over time. Here, MTD stands for Month-to-Date and MoM stands for Month-over-Month.
+Key performance Indicators (KPI's) are 
 1. Total Loan Applications
 2. Total Funded Amount
 3. Total Amount Received
